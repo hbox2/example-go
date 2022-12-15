@@ -1,4 +1,4 @@
-module golang.org/x/example
+module github.com/hbox2/example-go
 
 go 1.15
 
